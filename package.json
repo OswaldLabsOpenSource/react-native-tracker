@@ -1,0 +1,14 @@
+{
+  "name": "react-native-tracker",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/OswaldLabsOpenSource/react-native-tracker",
+  "author": "Anand Chowdhary <anandchowdhary@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.58.5"
+  },
+  "dependencies": {
+    "react-native-device-info": "^0.26.4"
+  }
+}
