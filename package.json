@@ -9,6 +9,6 @@
     "react-native": "^0.58.5"
   },
   "dependencies": {
-    "react-native-device-info": "^2.1.2"
+    "react-native-device-info": "^2.1.3"
   }
 }
