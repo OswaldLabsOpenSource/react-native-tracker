@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-react-native-device-info@^5.5.1:
-  version "5.5.1"
-  resolved "https://registry.yarnpkg.com/react-native-device-info/-/react-native-device-info-5.5.1.tgz#1b942f0d868161f96305055c296818ba415813dc"
-  integrity sha512-ceaGnxOAULRzVpx03bPjbayuHD5g21CcdmKKvLK5mV72sbguNZbTHNmnH3//Bx9Hfy1XOm6zHhM5Yfb7Glqplw==
+react-native-device-info@^5.5.2:
+  version "5.5.2"
+  resolved "https://registry.yarnpkg.com/react-native-device-info/-/react-native-device-info-5.5.2.tgz#72011874eb622579046d94d0a4cde9cda083bc0c"
+  integrity sha512-WTP1LAK6400aycj3GzTQMXM5ufe+8y+QpaLbG7FyLviazBvoKgvDLf1uxfkUag8yjjJlqjrPo8jrAwdvH7UtRA==
